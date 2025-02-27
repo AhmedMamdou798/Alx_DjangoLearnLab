@@ -1,2 +1,2 @@
-# welcome to my Django library project.
-# welcome to my Django library project.# welcome to my Django library project.# welcome to my Django library project.# welcome to my Django library project.
+# LibraryProject - Django Setup
+This is a basic Django project setup.
